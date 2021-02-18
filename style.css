@@ -1,0 +1,9 @@
+header {
+    background: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 50px;
+    top:0;
+    color: #e5e5e5
+}
